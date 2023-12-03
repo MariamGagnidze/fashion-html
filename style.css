@@ -1,0 +1,24 @@
+
+img{
+    width: 500px;
+    height: 300px;
+}
+.frame-container{
+    border: 2px solid;
+    padding: 10px;
+    color: black;
+    width:  800px;
+}
+.flex-container{
+    display: flex;
+}
+
+.and{width: 728px;
+height: 400px;
+}
+button{
+    width: 100px;
+    height: 25px;
+    border-radius: 10px;
+
+}
